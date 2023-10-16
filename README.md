@@ -6,6 +6,6 @@
   <li>Python Advanced</li>
   <li>Python OOP</li>
   <li>PostgreSQL</li>
-  <li>Python ORM</li>
+  <li>Python ORM - In progress</li>
 </ul>
 <p>All tasks are solved by me</p>
